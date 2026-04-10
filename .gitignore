@@ -5,3 +5,5 @@ flights.zip
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+*.swp
